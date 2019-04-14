@@ -15,7 +15,7 @@ def division(num1, num2)
   
 end
 
-division(6/1)
+division(6, 1)
 
 def multiplication(num1, num2)
 end
