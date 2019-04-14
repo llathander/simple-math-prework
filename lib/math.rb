@@ -23,7 +23,10 @@ end
 multiplication(9001, 1)
 
 def modulo(num1, num2)
+  num1 % num2
 end
+
+modulo(34, 5)
 
 def square_root(num)
 end
