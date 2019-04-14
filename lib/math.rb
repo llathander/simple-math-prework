@@ -20,7 +20,7 @@ division(6, 1)
 def multiplication(num1, num2)
   num1  * num2
 end
-multiplcation(9001, 1)
+multiplication(9001, 1)
 
 def modulo(num1, num2)
 end
